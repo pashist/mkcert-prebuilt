@@ -17,7 +17,7 @@
 		"install.js"
 	],
 	"bin": {
-		"mkcert": "1.2.0"
+		"mkcert": "1.4.0"
 	},
 	"keywords": [
 		"mkcert",
